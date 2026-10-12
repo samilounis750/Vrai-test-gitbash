@@ -10,3 +10,6 @@ Created on Mon Oct 12 19:42:38 2026
 def Hello_worlf():
     print("Hello world ! ")
     return
+
+def Somme(a,b):
+    return a+b
